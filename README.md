@@ -29,3 +29,5 @@
      Usage        :  ./tetris [ <runlevel> [ <previewlevel> [ <speedlevel> [ <width> [height] ] ] ] ] 
      Range        :  [ 0 <= runlevel <= 31 ] [ previewlevel >= 1 ] [ speedlevel <= 30 ] [ width >= 17 ] [ height >= 10 ]
      Notice       :  runlevel previewlevel speedlevel width height belong to integer
+
+Run a new way to play Tetris
